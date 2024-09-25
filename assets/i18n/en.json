@@ -1,0 +1,11 @@
+{
+    "navbare":{
+        "home":"Home",
+        "categories":"Categories",
+        "produts":"Produts",
+        "brands":"Brands",
+        "wishlist":"Wishlist",
+        "logOut":"LogOut",
+        "lang":"عربي"
+    }
+}
